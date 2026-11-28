@@ -1,3 +1,10 @@
+<!-- PAI-SG-LINKS:BEGIN -->
+## Project Links
+
+- [Project Portal](https://statera-workshop.github.io/#repo-mm_fusion_latefusion)
+- [Statera Workshop Portal](https://statera-workshop.github.io/)
+<!-- PAI-SG-LINKS:END -->
+
 # MM_Fusion_LateFusion
 
 **Late Fusion on AV-MNIST - convergence study (PAI-SG Multimodal Wave 1)**
